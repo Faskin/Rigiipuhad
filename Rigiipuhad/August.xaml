@@ -1,0 +1,12 @@
+﻿
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" Title="August" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Rigiipuhad.August">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+            <Image  Source="taispaev.jpeg" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
+            </Image>
+            <Label HorizontalTextAlignment="Center" FontSize="Medium">20. august. Taasiseseisvumispäev</Label>
+            <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

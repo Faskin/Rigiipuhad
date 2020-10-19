@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{1B763C84-C982-4924-B5A5-D6503D13969F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rigiipuhad/Detsember.xaml">
+    <Files>
+      <File FileName="Rigiipuhad/AssemblyInfo.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Rigiipuhad/Veebruar.xaml" Line="11" Column="94" />
+      <File FileName="Rigiipuhad/Aprill.xaml" Line="13" Column="27" />
+      <File FileName="Rigiipuhad/Mai.xaml" Line="18" Column="1" />
+      <File FileName="Rigiipuhad/App.xaml" />
+      <File FileName="Rigiipuhad/September.xaml" Line="1" Column="1" />
+      <File FileName="Rigiipuhad/Oktoober.xaml" Line="1" Column="1" />
+      <File FileName="Rigiipuhad/Jaanuar.xaml" Line="7" Column="118" />
+      <File FileName="Rigiipuhad/Juuni.xaml" Line="14" Column="23" />
+      <File FileName="Rigiipuhad/Juuli.xaml" />
+      <File FileName="Rigiipuhad/August.xaml" Line="8" Column="116" />
+      <File FileName="Rigiipuhad/Detsember.xaml" Line="9" Column="93" />
+      <File FileName="Rigiipuhad/Detsember.xaml.cs" Line="1" Column="1" />
+      <File FileName="Rigiipuhad/Jaanuar.xaml.cs" Line="17" Column="10" />
+      <File FileName="Rigiipuhad/Veebruar.xaml.cs" Line="18" Column="10" />
+      <File FileName="Rigiipuhad/Aprill.xaml.cs" Line="21" Column="10" />
+      <File FileName="Rigiipuhad/Mai.xaml.cs" Line="21" Column="10" />
+      <File FileName="Rigiipuhad/Juuni.xaml.cs" Line="21" Column="550" />
+      <File FileName="Rigiipuhad/August.xaml.cs" Line="16" Column="42" />
+      <File FileName="Rigiipuhad/November.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rigiipuhad" expanded="True">
+            <Node name="Rigiipuhad" expanded="True">
+              <Node name="Aprill.xaml" expanded="True" />
+              <Node name="August.xaml" expanded="True" />
+              <Node name="Detsember.xaml" expanded="True" selected="True" />
+              <Node name="Jaanuar.xaml" expanded="True" />
+              <Node name="Juuni.xaml" expanded="True" />
+              <Node name="Mai.xaml" expanded="True" />
+              <Node name="Veebruar.xaml" expanded="True" />
+            </Node>
+            <Node name="Rigiipuhad.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Rigiipuhad.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+</Properties>

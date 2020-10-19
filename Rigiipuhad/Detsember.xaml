@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" Title="Detsember" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Rigiipuhad.Detsember">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+
+            <Image  Source="" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
+            </Image>
+            <Label HorizontalTextAlignment="Center" FontSize="Medium">24. detsember 2020 Jõululaupäev</Label>
+            <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked1"/>
+
+            <Image  Source="" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
+            </Image>
+            <Label HorizontalTextAlignment="Center" FontSize="Medium">25. detsember 2020 Esimene jõulupüha</Label>
+            <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked2"/>
+
+            <Image  Source="" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
+            </Image>
+            <Label HorizontalTextAlignment="Center" FontSize="Medium">26. detsember 2020	Teine jõulupüha</Label>
+            <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked3"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
