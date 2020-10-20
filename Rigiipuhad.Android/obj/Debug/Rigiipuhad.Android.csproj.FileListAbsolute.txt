@@ -472,3 +472,6 @@
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/jolupaev.jpg
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/jolupuha.jpg
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/teinepuha.jpg
