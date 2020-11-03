@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" Title="Aprill" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Rigiipuhad.Aprill">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout HorizontalOptions="Center">
             <Image Source="reede.png" HeightRequest="200" WidthRequest="200" Aspect="AspectFill" ></Image>
             <Label FontSize="Medium" HorizontalTextAlignment="Center">02. aprill - Suur reede</Label>
@@ -10,5 +11,6 @@
             <Label FontSize="Medium" HorizontalTextAlignment="Center">04. Ülestõusmispühade 1. püha</Label>
             <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked2"/>
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

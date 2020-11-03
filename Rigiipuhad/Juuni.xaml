@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" Title="Juuni" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Rigiipuhad.Juuni">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout HorizontalOptions="Center">
             <Image  Source="voidpuha.jpeg" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
             </Image>
@@ -12,5 +13,6 @@
             <Label HorizontalTextAlignment="Center" FontSize="Medium">24. juuni. Jaanipäev</Label>
             <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked2"/>
         </StackLayout>
+            </ScrollView>
     </ContentPage.Content>
 </ContentPage>
