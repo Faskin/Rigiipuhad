@@ -8,8 +8,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Rigiipuhad" expanded="True">
-            <Node name="Rigiipuhad" expanded="True" selected="True">
+            <Node name="Rigiipuhad" expanded="True">
               <Node name="Detsember.xaml" expanded="True" />
+              <Node name="Juuni.xaml" selected="True" />
             </Node>
           </Node>
         </State>

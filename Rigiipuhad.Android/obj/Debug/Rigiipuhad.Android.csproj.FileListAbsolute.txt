@@ -475,3 +475,9 @@
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/jolupaev.jpg
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/jolupuha.jpg
 /Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/teinepuha.jpg
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/sunipaev.jpg
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/teadm.jpg
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/september.xaml
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/sad.png
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/tjava.png
+/Users/alekseistaiger/Projects/Rigiipuhad/Rigiipuhad.Android/obj/Debug/res/drawable/november.xaml

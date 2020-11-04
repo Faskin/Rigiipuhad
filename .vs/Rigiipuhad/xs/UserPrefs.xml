@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{1B763C84-C982-4924-B5A5-D6503D13969F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Rigiipuhad/Detsember.xaml">
+  <MonoDevelop.Ide.ItemProperties.Rigiipuhad.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rigiipuhad/November.xaml">
     <Files>
       <File FileName="Rigiipuhad/AssemblyInfo.cs" Line="1" Column="1" IsPinned="True" />
       <File FileName="Rigiipuhad/Jaanuar.xaml.cs" IsPinned="True" />
@@ -7,25 +8,32 @@
       <File FileName="Rigiipuhad/Aprill.xaml" />
       <File FileName="Rigiipuhad/Mai.xaml" />
       <File FileName="Rigiipuhad/App.xaml" />
-      <File FileName="Rigiipuhad/September.xaml" />
       <File FileName="Rigiipuhad/Oktoober.xaml" />
       <File FileName="Rigiipuhad/Jaanuar.xaml" />
       <File FileName="Rigiipuhad/Juuni.xaml" />
       <File FileName="Rigiipuhad/Juuli.xaml" />
       <File FileName="Rigiipuhad/August.xaml" />
-      <File FileName="Rigiipuhad/Detsember.xaml" Line="26" Column="5" />
+      <File FileName="Rigiipuhad/Detsember.xaml" />
+      <File FileName="Rigiipuhad/November.xaml" Line="11" Column="15" />
+      <File FileName="Rigiipuhad/November.xaml.cs" Line="6" Column="15" />
+      <File FileName="Rigiipuhad/September.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Rigiipuhad" expanded="True">
             <Node name="Rigiipuhad" expanded="True">
-              <Node name="Aprill.xaml" expanded="True" />
               <Node name="August.xaml" expanded="True" />
-              <Node name="Detsember.xaml" expanded="True" selected="True" />
+              <Node name="Detsember.xaml" expanded="True" />
               <Node name="Jaanuar.xaml" expanded="True" />
+              <Node name="Juuli.xaml" expanded="True" />
               <Node name="Juuni.xaml" expanded="True" />
               <Node name="Mai.xaml" expanded="True" />
+              <Node name="November.xaml" expanded="True">
+                <Node name="November.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Oktoober.xaml" expanded="True" />
+              <Node name="September.xaml" expanded="True" />
               <Node name="Veebruar.xaml" expanded="True" />
             </Node>
             <Node name="Rigiipuhad.Android" expanded="True">
@@ -44,5 +52,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Rigiipuhad.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3_xl_r_11_0_-_api_30" />
+  <MonoDevelop.Ide.ItemProperties.Rigiipuhad.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3_xl_pie_9_0_-_api_28" />
 </Properties>

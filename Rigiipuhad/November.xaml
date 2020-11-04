@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" Title="November" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Rigiipuhad.November">
     <ContentPage.Content>
+        <StackLayout>
+            <Image  Source="tjava.png" Aspect="AspectFit" HeightRequest="200" WidthRequest="200">
+            </Image>
+            <Label HorizontalTextAlignment="Center" FontSize="Large">19. November. Minu sõber sünnipäev</Label>
+            <Button  Text="View info" BackgroundColor="#FD2196FD" HorizontalOptions="Center" Clicked="ButtonClicked1"/>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

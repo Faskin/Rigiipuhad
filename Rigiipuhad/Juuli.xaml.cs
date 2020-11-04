@@ -11,5 +11,9 @@ namespace Rigiipuhad
         {
             InitializeComponent();
         }
+        async void ButtonClicked1(object sender, EventArgs args)
+        {
+            await DisplayAlert("About", "Mina sunnipaev", "OK");
+        }
     }
 }
